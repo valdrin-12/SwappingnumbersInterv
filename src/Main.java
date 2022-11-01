@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        Swappnumbers(3, 5);
+        Swappnumbers(3, 9);
         System.out.println(Vowels("ddidkfj"));
         // Vowels("arTiejenf");
         //OnlyOddNumbers(1,2,4);
         IspolindromeString("aruya");
-        factoriel(3);
+        factoriel(3);// llogarit faktorielin
 
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the size of list");
